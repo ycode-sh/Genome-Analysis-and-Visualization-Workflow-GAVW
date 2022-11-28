@@ -1,1 +1,1 @@
-# Genome-Analysis-and-Visualization-Workflow-GAVW-
+# Genome Analysis and Visualization Workflow Project
