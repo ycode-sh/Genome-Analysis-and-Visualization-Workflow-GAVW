@@ -1,4 +1,4 @@
-# Genome-Analysis-and-Visualization-Workflow-Project
+# Genome-Analysis-and-Visualization-Workflow-Project (Work in Progress!)
 Genome Analysis and Visualization Workflow Project is an ambitious endeavour to create an automated, open source, contextualized framework for a complete characterization of infectious pathogens' biology using whole genome sequencing datasets integrated with different molecular and phenotypic data.
 
 In line with our mission to contribute significantly to a reduced burden of infectious diseases in Africa, this project is aimed at making available to the scientific community a highly contextualized, portable, scalable, and reproducible genome analysis and visualization workflow incorporating carefully chosen and widely used genome analysis software and visualization tools.
