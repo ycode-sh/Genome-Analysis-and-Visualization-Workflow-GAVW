@@ -11,6 +11,4 @@ genetic markers with important clinical identities, such as high transmissiblity
 
 The set of workflows available allow automated computational analysis by stringing together individual data processing tasks into cohesive pipelines. The use of Nextflow as the workflow management framework enables abstracting away the issues of orchestrating data movement and processing, managing task dependencies, and allocating resources within the compute infrastructure. The workflows available are shared in docker images, one image per pathogen species, ensuring interopability across different operating infrastracture and also ensuring that analysis parameters and constants are optimal for each pathogen chosen for analysis.
 
-The genome analysis workflow currently availaible on this repository takes input reads from mycobacteria tuberculosis sequencing datasets and performs analysis from reads trimming to variants genotyping using at least two variant callers (bcftools, gatk, and or mccortex) and a variant adjudicator (minos) - to make accurate and sensitive variant calls. 
-
-As the project progresses, the workflow will be integrated with statistical computing environment for quality control, data visualization, and coordinated analysis of samples. Workflows analysing other infectious pathogens' of public health significance will also be included. 
+![Genome_Analysis_workflow](https://user-images.githubusercontent.com/96795505/216915526-cbbf3570-7d8a-4bff-b1bd-ae69a3896a2c.png)
